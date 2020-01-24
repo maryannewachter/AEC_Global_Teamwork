@@ -24,7 +24,7 @@ Link collation and information about the BHoM for AEC Global Teamwork
 ## BHoM Tips
 ### Grasshopper
 
-__General Note: Toggle push/pull to "False" before exiting a definition to avoid loading everything on startup__
+__General Note:__ Toggle push/pull to "False" before exiting a definition to avoid loading everything on startup__
 
 #### Key / Mouse Bindings
 CTRL-SHIFT-B - Key combination that will bring up all BHoM components (useful for searching for components)
@@ -38,4 +38,4 @@ BHoM Push ![push](https://github.com/BHoM/Grasshopper_Toolkit/blob/master/Grassh
 
 BHoM Pull ![pull](https://github.com/BHoM/Grasshopper_Toolkit/blob/master/Grasshopper_UI/Properties/Resources/Pull.png)
 
-BHoM Explode ![explode-logo](https://github.com/BHoM/Grasshopper_Toolkit/blob/master/Grasshopper_UI/Properties/Resources/Explode.png?raw=true) - Allows you to view all properties of a BHoM component or object 
+BHoM Explode ![explode-logo](https://github.com/BHoM/Grasshopper_Toolkit/blob/master/Grasshopper_UI/Properties/Resources/Explode.png?raw=true) - Allows viewing all properties of a BHoM component or object 

@@ -27,15 +27,11 @@ Link collation and information about the BHoM for AEC Global Teamwork
 __General Note:__ Toggle push/pull to "False" before exiting a definition to avoid loading everything on startup__
 
 #### Key / Mouse Bindings
-CTRL-SHIFT-B - Key combination that will bring up all BHoM components (useful for searching for components)
-2X RIGHT MOUSE CLICK (RMC) - Search all Grasshopper components
-2X RMC "" - Create text panel
-
-
+- CTRL-SHIFT-B - Key combination that will bring up all BHoM components (useful for searching for components)
+- 2X LEFT MOUSE CLICK (LMC) - Search all Grasshopper components
+- 2X LMC "" - Create text panel
 
 #### Key Components
-BHoM Push ![push](https://github.com/BHoM/Grasshopper_Toolkit/blob/master/Grasshopper_UI/Properties/Resources/Pull.png)
-
-BHoM Pull ![pull](https://github.com/BHoM/Grasshopper_Toolkit/blob/master/Grasshopper_UI/Properties/Resources/Pull.png)
-
-BHoM Explode ![explode-logo](https://github.com/BHoM/Grasshopper_Toolkit/blob/master/Grasshopper_UI/Properties/Resources/Explode.png?raw=true) - Allows viewing all properties of a BHoM component or object 
+- BHoM Push ![push](https://github.com/BHoM/Grasshopper_Toolkit/blob/master/Grasshopper_UI/Properties/Resources/Pull.png)
+- BHoM Pull ![pull](https://github.com/BHoM/Grasshopper_Toolkit/blob/master/Grasshopper_UI/Properties/Resources/Pull.png)
+- BHoM Explode ![explode-logo](https://github.com/BHoM/Grasshopper_Toolkit/blob/master/Grasshopper_UI/Properties/Resources/Explode.png?raw=true) - Allows viewing all properties of a BHoM component or object 

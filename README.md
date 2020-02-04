@@ -13,7 +13,7 @@ Link collation and information about the BHoM for AEC Global Teamwork
 
   Note: You __must__ close Rhino/Excel/Dynamo for the installation to work
        (The programs need to be closed to allow toolbars and components to be added!)
-  We recommend using the BHoM Installer to get started.
+  We recommend using the [BHoM Installer](https://bhom.xyz/installer) to get started.
   
 - [Wiki](https://github.com/BHoM/documentation/wiki)
 

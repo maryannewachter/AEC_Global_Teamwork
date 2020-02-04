@@ -34,7 +34,7 @@ __General Note:__ Toggle push/pull to "False" before exiting a definition to avo
 - 2X LMC "" - Create text panel
 - 2X SPC - Same as 2X LMC
 
-#### Key Components
+#### Important Components
 - BHoM Push ![push](https://github.com/BHoM/Grasshopper_Toolkit/blob/master/Grasshopper_UI/Properties/Resources/Pull.png)
 - BHoM Pull ![pull](https://github.com/BHoM/Grasshopper_Toolkit/blob/master/Grasshopper_UI/Properties/Resources/Pull.png)
 - BHoM Explode ![explode-logo](https://github.com/BHoM/Grasshopper_Toolkit/blob/master/Grasshopper_UI/Properties/Resources/Explode.png?raw=true) - Allows viewing all properties of a BHoM component or object 

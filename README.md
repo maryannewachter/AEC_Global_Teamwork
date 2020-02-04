@@ -17,9 +17,9 @@ Link collation and information about the BHoM for AEC Global Teamwork
   
 - [Wiki](https://github.com/BHoM/documentation/wiki)
 
-- [Samples](https://github.com/BHoM/samples)
-
 - [Revit BHoM Wiki](https://github.com/BHoM/Revit_Toolkit/wiki)
+
+- [Samples](https://github.com/BHoM/samples)
 
   Note: __Samples__ are a work in progress, and should be updated soon to the new version of BHoM.
 

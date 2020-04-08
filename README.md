@@ -38,3 +38,18 @@ __General Note:__ Toggle push/pull to "False" before exiting a definition to avo
 - BHoM Push ![push](https://github.com/BHoM/Grasshopper_Toolkit/blob/master/Grasshopper_UI/Properties/Resources/Pull.png)
 - BHoM Pull ![pull](https://github.com/BHoM/Grasshopper_Toolkit/blob/master/Grasshopper_UI/Properties/Resources/Pull.png)
 - BHoM Explode ![explode-logo](https://github.com/BHoM/Grasshopper_Toolkit/blob/master/Grasshopper_UI/Properties/Resources/Explode.png?raw=true) - Allows viewing all properties of a BHoM component or object 
+
+## Data Visualization Links
+
+### Getting Started with D3
+- [D3](https://d3js.org/)
+- [Observable Tutorials](https://observablehq.com/@d3/learn-d3)
+- [D3 Gallery of Sample Visulizations](https://github.com/d3/d3/wiki/Gallery)
+
+### D3 Visualization Wrappers
+
+#### Python
+- [Plotly/Dash](https://plotly.com/)
+- [Plotly Open Source Libraries](https://plotly.com/graphing-libraries/?_ga=2.141267323.835773207.1586361123-826250394.1586361123)
+- [Plotly/Dash Gallery of Sample Visulizations](https://dash-gallery.plotly.host/Portal/)
+
